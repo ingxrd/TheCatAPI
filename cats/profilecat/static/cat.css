@@ -1,0 +1,23 @@
+.gatos{
+    width: 600px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+
+
+}
+
+.imagem{
+    width: 600px;
+    height: auto;
+    background-color: blueviolet;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
